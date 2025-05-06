@@ -1,10 +1,13 @@
-# Loqode
-### HTML to PDF Glide Plugin
+### Trecho em Markdown para substituir o texto original
 
-This plugin allows you to preview and save HTML as PDFs. 
+```markdown
+# HTML to PDF Glide Plugin
 
-1. In an experimental code column, paste the following URL: https://loqode.github.io/html2pdf
-2. Then on your layout screen, add a web-embed component and select this column as the source.
-3. Viola!
+Este plugin permite visualizar e salvar conteúdos HTML como arquivos PDF.
 
-If you want to level-up your Glide skills for free, head to [Loqode.com](https://loqode.com).  🚀
+**Como usar:**
+1. Em uma coluna de código experimental, cole a seguinte URL: `https://<seu-usuário>.github.io/html2pdf`
+2. Em seguida, na tela de layout, adicione um componente de incorporação web e selecione esta coluna como fonte.
+
+> *Este texto foi adaptado a partir do plugin original [html2pdf](https://github.com/Loqode/html2pdf) de Loqode.*
+```
